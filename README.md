@@ -9,4 +9,7 @@ Springboard Coursework covering the following topics:
 4. JSON
 5. API
 6. SQL
+7. Inferential Statistics
+8. Bootstrap Inference
+9. Naive Bayes
 
